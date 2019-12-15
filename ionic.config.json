@@ -1,7 +1,8 @@
 {
   "name": "ionOfflineApp",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "capacitor": {}
   },
   "type": "angular"
 }
